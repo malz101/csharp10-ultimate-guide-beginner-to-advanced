@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithMutipleObjects", "WorkingWithMutipleObjects\WorkingWithMutipleObjects.csproj", "{6F01F353-5062-4807-884B-9AD913AEE2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{454B6F06-3B85-4011-92BA-55A3C2C2E902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F01F353-5062-4807-884B-9AD913AEE2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F01F353-5062-4807-884B-9AD913AEE2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F01F353-5062-4807-884B-9AD913AEE2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F01F353-5062-4807-884B-9AD913AEE2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454B6F06-3B85-4011-92BA-55A3C2C2E902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454B6F06-3B85-4011-92BA-55A3C2C2E902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454B6F06-3B85-4011-92BA-55A3C2C2E902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454B6F06-3B85-4011-92BA-55A3C2C2E902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9B5638-C18B-4C66-8CF8-B6EA422FBF20}
+	EndGlobalSection
+EndGlobal
